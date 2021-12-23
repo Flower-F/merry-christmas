@@ -45,10 +45,10 @@
 
 .tree .icon-iconcollect-copy {
   position: absolute;
-  left: calc(50% - 32px) !important;
-  top: -186px !important;
+  left: calc(50% - 24px) !important;
+  top: -176px !important;
   color: yellow !important;
-  font-size: 64px !important;
+  font-size: 48px !important;
 }
 
 .tree div {
